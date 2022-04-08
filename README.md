@@ -1,11 +1,5 @@
-# js-music-player
+# Music-player
 This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
-
-![Output](/output/html-css.png)
-
-## Running the player
-
-The index.html file can be run on any modern browser to run the music player.
 
 ## Adding more tracks
 
